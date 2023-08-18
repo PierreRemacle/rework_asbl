@@ -50,11 +50,11 @@ function App() {
               <h3> Cours particuliers </h3>
               <div className={styles.paragraphe}>
                   <div className={styles.pright}>
-                      <p> Nous accueillons les élèves pour répondre à leurs questions et les aider dans la compréhension de leurs devoirs et leurs leçons </p>
+                      <p> Nous accueillons les élèves pour répondre à leurs questions et les aider dans la compréhension de leurs devoirs et leurs leçons. </p>
                       <br></br>
-                      <ul> <FontAwesomeIcon icon={faLocation}/> Où? Collège Saint-Croix Hannut. </ul>
+                      <ul> <FontAwesomeIcon icon={faLocation}/> Où? Collège Saint-Croix Hannut </ul>
                       <ul> <FontAwesomeIcon icon={faCalendarDay}/> Quand? les samedis matin (10-13h) </ul>
-                      <ul> <FontAwesomeIcon icon={faChalkboardTeacher}/> Comment? les cours sont donné par groupe de 4 </ul>
+                      <ul> <FontAwesomeIcon icon={faChalkboardTeacher}/> Comment? les cours sont donné par groupes de 4 </ul>
                       <ul> <FontAwesomeIcon icon={faMoneyBill}/> Tarif? 35€/3h </ul>
                   </div>
                   <div className={styles.image} > place holder </div>
